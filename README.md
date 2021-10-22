@@ -1,1 +1,1 @@
-# http://miracelikbass.github.io
+# /miracelikbass.github.io
